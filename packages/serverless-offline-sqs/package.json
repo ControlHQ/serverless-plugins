@@ -27,7 +27,7 @@
     "node": ">=16"
   },
   "peerDependencies": {
-    "serverless-offline": "^10.0.2 || ^11 || ^12"
+    "serverless-offline": "^10.0.2 || ^11 || ^12 || ^13"
   },
   "dependencies": {
     "aws-sdk": "^2.1234.0",
@@ -35,7 +35,7 @@
     "p-queue": "^6.6.2"
   },
   "devDependencies": {
-    "serverless-offline": "^12"
+    "serverless-offline": "^13"
   },
   "keywords": [
     "sqs",
